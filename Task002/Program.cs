@@ -9,11 +9,11 @@ int b = Convert.ToInt32(Console.ReadLine());
 
 if (a > b)
 {
-    Console.WriteLine("Максимальным является число: " + a);
-    Console.WriteLine("Минимальным является число: " + b);
+    Console.WriteLine($"Максимальным является число: {a}");
+    Console.WriteLine($"Минимальным является число: {b}");
 }
 else 
 {
-    Console.WriteLine("Максимальным является число: " + b);
-    Console.WriteLine("Минимальным является число: " + a);
+    Console.WriteLine($"Максимальным является число: {b}");
+    Console.WriteLine($"Минимальным является число: {a}");
 }

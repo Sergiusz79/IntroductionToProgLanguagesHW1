@@ -12,4 +12,4 @@ int max = a;
 if (b > a) max = b;
 if (c > a) max = c;
 
-Console.WriteLine("Максимальным является число: " + max);
+Console.WriteLine($"Максимальным является число: {max} ");
