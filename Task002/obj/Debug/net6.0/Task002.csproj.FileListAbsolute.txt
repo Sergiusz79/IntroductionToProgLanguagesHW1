@@ -1,0 +1,15 @@
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\bin\Debug\net6.0\Task002.exe
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\bin\Debug\net6.0\Task002.deps.json
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\bin\Debug\net6.0\Task002.dll
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\bin\Debug\net6.0\Task002.pdb
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.dll
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\refint\Task002.dll
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.pdb
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+D:\Users\Admin\OneDrive\Документы\Учёба\Programming\Seminar1\Task002\obj\Debug\net6.0\ref\Task002.dll
